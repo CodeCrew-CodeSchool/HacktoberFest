@@ -1,0 +1,2 @@
+# HacktoberFest
+Guidelines for HacktoberFest
