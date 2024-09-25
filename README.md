@@ -1,6 +1,11 @@
 # HacktoberFest
 Guidelines for HacktoberFest 2024
 
+### Get Started
+
+Continue with the instructions below after you [Sign up](https://hacktoberfest.com/auth/)
+
+### Repos
 
 These are the key public repos are accepting PRs for [Hacktoberfest](https://hacktoberfest.com):
 
